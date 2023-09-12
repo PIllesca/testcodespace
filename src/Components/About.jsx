@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/binary-2904980_1280.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "blue abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am passionate about gaming and coding. By leveraging my C# and Unity experience I continually look for new and better ways to make games.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
